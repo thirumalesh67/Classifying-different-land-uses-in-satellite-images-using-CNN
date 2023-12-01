@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'satellite-image1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69A478D823BF4F23A0C7022B55D7D600 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90FA7A13789541C2AA1180A9B2B2FAD0 }}
