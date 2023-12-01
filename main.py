@@ -8,7 +8,7 @@ import io
 app = FastAPI()
 
 # Load the trained ResNet50 model
-model = load_model('model.sav')
+model = load_model('trained_model.h5')
 
 # Define class names
 class_names = ["agricultural",
